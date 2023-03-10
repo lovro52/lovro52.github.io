@@ -2,5 +2,4 @@
 
 ovdje ce se nalaziti html/css mozda i javascript koji cini moju osobnu web stranicu 
 
-adresa web stranice jest https://lovrolukamatan.github.io
-555555555
+adresa web stranice jest https://github.com/lovro52/lovrolukamatan.github.io.git
